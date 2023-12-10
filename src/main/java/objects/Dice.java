@@ -4,6 +4,7 @@ import java.util.Random;
 
 public class Dice
 {
+    //fields here
     private Random random;
     private int sides;
     private String color;
